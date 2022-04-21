@@ -22,7 +22,7 @@ public class Quote {
         return type;
     }
 
-    public String setType(String type) {
+    public void setType(String type) {
         this.type = type;
     }
 
